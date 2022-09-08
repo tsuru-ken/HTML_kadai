@@ -1,0 +1,30 @@
+.submit input{
+    color: aliceblue;
+    background-color: #008B8B;
+    padding: 10px 10px;  
+    text-align: center; 
+    align-items: center;
+
+  }
+  .submit{
+    text-align: center;
+  }
+
+  .contact {
+    background-color: #fff;
+    color: #4d4d4d;
+}
+.text{
+    width: 480px;
+}
+
+th{
+    width: 150px;
+    height: 7rem;
+    padding-right: 10px;
+    text-align: right;
+}
+
+.submit input:hover{
+    opacity: 0.5;
+}
